@@ -8,5 +8,6 @@
 <body>
     <h1> Welcome to GitHub Demo </h1>
     <p> Hello CHECK </p>
+    <p> HI, EVERYONE </p>
 </body>
 </html>
